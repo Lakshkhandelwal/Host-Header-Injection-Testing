@@ -15,7 +15,7 @@ Caution : Do not rename the input file or exe file.
 
 ## Instructions for executing the program.
 1. Download or Clone the repository.
-2. The program is dependent on the [pycurl](https://pypi.org/project/pycurl/) and [certifi](https://pypi.org/project/certifi/) library so install that using pip .
+2. The program is dependent on the [pycurl](https://pypi.org/project/pycurl/) and [certifi](https://pypi.org/project/certifi/) library so install that using pip or use the requirements.txt.
 3. Create an input file in the format specified below.
 4. Execute the program from cmd.
 
