@@ -1,4 +1,4 @@
-# Host-Header-Injection-Testing
+# Host Header Injection Testing
 A tool to check Host Header Injection Vulnerability in websites
 
 ## Instructions for direct execution without python or any other dependency installed.
